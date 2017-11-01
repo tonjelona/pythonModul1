@@ -11,3 +11,4 @@ print("helo" + " " +"world")
 
 print("hello"+"world")
 
+print(10/3)
